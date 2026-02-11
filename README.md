@@ -1,7 +1,3 @@
-Here’s your **GitHub README** content rewritten cleanly and professionally, keeping the same structure and style for your project.
-
----
-
 # PRISM-Insurance-Dashboard
 
 
